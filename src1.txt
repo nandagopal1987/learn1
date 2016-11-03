@@ -4,4 +4,4 @@ The second user is implementing some code
 improve code by user1
 implement feature1 by user1
 a small test
-improving a new feature
+improving a new feature1
