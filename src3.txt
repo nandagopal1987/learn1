@@ -1,3 +1,4 @@
 adding source3
 improving source3
 Test for rebase 1
+Test for rebase 2
