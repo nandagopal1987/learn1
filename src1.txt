@@ -1,1 +1,2 @@
-adding the first source coude
+adding the first source code
+The second user is implementing some code
